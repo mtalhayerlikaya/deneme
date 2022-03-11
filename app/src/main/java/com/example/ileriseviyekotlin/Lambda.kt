@@ -7,7 +7,7 @@ fun main() {
      println(people.maxByOrNull { it.age })
 
     val sum = { x: Int, y: Int -> x + y }
-
+    println("deneme")
     { println(42) }()
 
 }
